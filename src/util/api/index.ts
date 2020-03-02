@@ -1,3 +1,3 @@
-const baseUrl = 'http://123:4000';
+const baseUrl = 'http://localhost:4000';
 
 export { baseUrl };
